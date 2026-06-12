@@ -1,0 +1,16 @@
+# Secrets and environment variables (CRITICAL)
+.env
+.env.local
+
+# Dependency folders (Massive folders you don't need on GitHub)
+node_modules/
+jspm_packages/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# System files
+.DS_Store
+Thumbs.db
