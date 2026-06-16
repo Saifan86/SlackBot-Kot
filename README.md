@@ -1,6 +1,6 @@
 # SlackBot-Kot
 
-you can claim this bot as ur projet as long as u changed his Name and other stuff(optional) and use a your own .env(it's four lines of code anyway)
+you can claim this bot as ur project as long as u changed his Name and other stuff(optional) and use a your own .env(it's four lines of code anyway)
 
 # clone cmd-
 
