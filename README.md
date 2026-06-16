@@ -3,6 +3,7 @@
 you can claim this bot as ur project as long as u changed his Name and other stuff(optional) and use a your own .env(it's four lines of code anyway)
 # How to create ur own .env file
 create a new file named ".env" and paste these 4 lines from below
+
 SLACK_BOT_TOKEN=xoxb-...   (your xoxb- token after the '=' sign)
 
 SLACK_SIGNING_SECRET=...   (your signing secret after the '=' sign)
