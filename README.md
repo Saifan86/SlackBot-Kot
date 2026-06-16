@@ -26,3 +26,5 @@ cd SlackBot-Kot
 KOT is an AI-powered, royalty-themed Slack bot built for the **Hack Club Stardance** summer program. Using the free Google Gemini API, KOT rules over your Slack workspace, offering medieval-style roasts, royal decrees, project generation, and interactive coding challenges.'K' stands for kings and "OT" from BOT and thats how our majesty KOT were Named ;)
 
 
+-Note- 
+I might be bad at explaining so if u didn't understood few things, FORGIVE ME!!
