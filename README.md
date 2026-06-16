@@ -1,6 +1,6 @@
 # SlackBot-Kot
 
-you can claim this bot as ur projet as long as u changed his and other stuff(optional) ad use a different api key.
+you can claim this bot as ur projet as long as u changed his Name and other stuff(optional) and use a your own .env(it's four lines of code anyway)
 
 # clone cmd-
 
@@ -8,7 +8,7 @@ git clone [https://github.com/Saifan86/SlackBot-Kot.git](https://github.com/Saif
 cd SlackBot-Kot
 -
 
-# "/" commands
+# All the slash commands used in the project
 
 * **👑 /kot-roast `@user`** – KOT uses the Gemini API to royally insult/roast a user in a funny, medieval style (without being genuinely mean).
 * **📜 /kot-decree** – KOT issues a dramatic, random royal decree regarding tech, coding, or life as a bot.
@@ -23,4 +23,6 @@ cd SlackBot-Kot
 
 # 👑 KOT (King Of Bots)
 
-KOT is an AI-powered, royalty-themed Slack bot built for the **Hack Club Stardance** summer program. Using the free Google Gemini API, KOT rules over your Slack workspace, offering medieval-style roasts, royal decrees, project generation, and interactive coding challenges.
+KOT is an AI-powered, royalty-themed Slack bot built for the **Hack Club Stardance** summer program. Using the free Google Gemini API, KOT rules over your Slack workspace, offering medieval-style roasts, royal decrees, project generation, and interactive coding challenges.'K' stands for kings and "OT" from BOT and thats how our majesty KOT were Named ;)
+
+
