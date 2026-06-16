@@ -1,6 +1,11 @@
 # SlackBot-Kot
 
 you can claim this bot as ur project as long as u changed his Name and other stuff(optional) and use a your own .env(it's four lines of code anyway)
+# How to create ur own .env file
+SLACK_BOT_TOKEN=xoxb-...   (your xoxb- token after the '=' sign)
+SLACK_SIGNING_SECRET=...   (your signing secret after the '=' sign)
+SLACK_APP_TOKEN=xapp-...   (your xapp- token after the '=' sign)
+GEMINI_API_KEY=...         (your gemini api key after the '=' sign)
 
 # clone cmd-
 
